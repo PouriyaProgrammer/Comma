@@ -1,0 +1,10 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using Microsoft.EntityFrameworkCore;
+global using Domain.Entities.Article;
+global using Microsoft.AspNetCore.Http; 
+global using Application.DTOs.Article; 
+global using System.Linq.Expressions;
